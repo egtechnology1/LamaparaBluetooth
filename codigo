@@ -1,10 +1,10 @@
 
-// Creado por Sergio Zamorano Martín
+// Creado por EGTECHNOLOGY1
 
 // PARA SUBIR EL SKETCH ES MUY IMPORTANTE QUE LOS PINES 1 Y 2 ESTÉN DESCONECTADOS DEL ARDUINO. SINO NO FUNCIONARÁ. DESCONECTARLOS Y LUEGO SUBIDLOS. //
 
 
-int rele = 13;    //relé en pin 7
+int rele = 13;    //relé en pin 13
 int cmd;           // declaración de variable INT llamada Data que recibe del bluetooth
 
 void setup()
